@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/reinerhuechting-courses/cardgames/cards"
-	"github.com/reinerhuechting-courses/cardgames/gamestate"
+	"github.com/wwi22ama-prog/cardgames/cards"
+	"github.com/wwi22ama-prog/cardgames/gamestate"
 )
 
 // Spielvorbereitung:

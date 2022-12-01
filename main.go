@@ -1,6 +1,6 @@
 package main
 
-import "github.com/reinerhuechting-courses/cardgames/maumau"
+import "github.com/wwi22ama-prog/cardgames/maumau"
 
 func main() {
 	maumau.RunGame()

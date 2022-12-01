@@ -1,6 +1,6 @@
 package gamestate
 
-import "github.com/reinerhuechting-courses/cardgames/cards"
+import "github.com/wwi22ama-prog/cardgames/cards"
 
 type GameState struct {
 	Players       []cards.Hand
